@@ -211,7 +211,6 @@ header {
 }
 .single-column {
 	width: 30%;
-	padding: 20px 5px;
 	margin: 10px;
 	float: left;
 }
@@ -288,9 +287,8 @@ header {
 }
 
 .mobile img {
-	min-height: 140px;
+	min-height: 240px;
 	min-width: 70px;
-	box-shadow: 5px 10px;
 }
 
 .store-part {
