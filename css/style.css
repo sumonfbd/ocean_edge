@@ -23,6 +23,7 @@ header {
 .logo {
 	width: 15%;
 	float: left;
+	cursor: pointer;
 }
 
 .logo img {
